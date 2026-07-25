@@ -50,7 +50,7 @@ exclude:
   - _drafts
 
 collections:
-  general:
+  pages:
     output: true
     sort_by: date
     permalink: /:collection/:path/
@@ -58,20 +58,15 @@ collections:
     output: true
     sort_by: date
     permalink: /:collection/:path/
-  pages:
-    output: true
-    sort_by: date
-    permalink: /:collection/:path/
-  others:
+  general:
     output: true
     sort_by: date
     permalink: /:collection/:path/
 
 ordered_collections:
-  - general
-  - bio
   - pages
-  - others
+  - bio
+  - general
 
 page_width: 800px
 
