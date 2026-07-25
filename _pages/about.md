@@ -1,6 +1,6 @@
 ---
 title: About
-author: Tao He
+author: Sangyun Han
 date: 2026-07-26
 category: pages
 layout: post
