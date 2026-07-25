@@ -2,7 +2,7 @@
 title: About
 author: Sangyun Han
 date: 2026-07-26
-category: Jekyll
+category: pages
 layout: post
 ---
 
