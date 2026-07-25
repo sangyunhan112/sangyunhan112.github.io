@@ -64,7 +64,7 @@ collections:
     permalink: /:collection/:path/
   others:
     output: true
-    sord_by: date
+    sort_by: date
     permalink: /:collection/:path/
 
 ordered_collections:
