@@ -50,15 +50,26 @@ exclude:
   - _drafts
 
 collections:
+  general:
+    output: true
+    sorted_by: date
+    permalink: /:collection/:path/
+  bio:
+    output: true
+    sorted_by: date
+    permalink: /:collection/:path/
   pages:
     output: true
+    sorted_by: date
     permalink: /:collection/:path/
   others:
     output: true
+    sorted_by: date
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
+  - general
+  - bio
   - pages
   - others
 
