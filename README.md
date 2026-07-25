@@ -4,8 +4,6 @@ title: Sangyun's Personal Blog
 permalink: /
 ---
 
-Sangyun's Personal Blog
-
 ## About Me
 
 I'm a first-year PhD Student at MIT Brain & Cognitive Sciences (BCS).
