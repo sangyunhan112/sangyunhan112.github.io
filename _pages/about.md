@@ -3,7 +3,6 @@ title: About
 author: Sangyun Han
 date: 2026-07-26
 layout: post
-permalink: /about/
 ---
 
 # Sangyun Han
